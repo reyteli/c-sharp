@@ -5,4 +5,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\nikco\Downloads\33.cs" Link="33.cs" />
+  </ItemGroup>
+
 </Project>
